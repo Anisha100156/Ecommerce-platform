@@ -34,3 +34,4 @@ To run this project locally, follow these steps:
 
 ![E-commerce Homepage](preview1.png)  
 ![E-commerce Product Page](preview2.png)  
+![E-commerce Product Page](preview3.png)  
